@@ -1,0 +1,7 @@
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/ProductServiceApplication.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/controller/impl/ProductControllerImpl.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/model/entities/Product.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/controller/interfaces/ProductControllerInterface.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/repository/ProductRepository.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/exception/ProductNotFoundException.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/product-service/src/main/java/com/ironhack/erp/productservice/service/ProductService.java

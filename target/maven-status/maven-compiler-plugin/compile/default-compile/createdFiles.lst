@@ -1,0 +1,7 @@
+com/ironhack/erp/productservice/ProductServiceApplication.class
+com/ironhack/erp/productservice/controller/impl/ProductControllerImpl.class
+com/ironhack/erp/productservice/exception/ProductNotFoundException.class
+com/ironhack/erp/productservice/model/entities/Product.class
+com/ironhack/erp/productservice/repository/ProductRepository.class
+com/ironhack/erp/productservice/controller/interfaces/ProductControllerInterface.class
+com/ironhack/erp/productservice/service/ProductService.class
